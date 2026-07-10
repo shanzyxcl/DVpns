@@ -1,4 +1,4 @@
-# DVpn
+# NxVpn
 
 Android VPN client with support for multiple protocols.
 
