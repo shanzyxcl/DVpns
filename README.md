@@ -22,7 +22,7 @@ Go to [Releases](../../releases) to download the latest APK.
 
 | Platform | Link |
 |---|---|
-| GitHub | [Shanzyxcl](https://github.com/shazyxcl) |
+| GitHub | [Shanzyxcl](https://github.com/shanzyxcl) |
 | Telegram | [David](https://t.me/david_dev77) |
 | Facebook | [Nasruloh Hakim](https://www.facebook.com/alexander.vilain45) |
 
