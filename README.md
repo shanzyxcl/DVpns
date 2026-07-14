@@ -14,7 +14,7 @@ Go to [Releases](../../releases) to download the latest APK.
 
 ## Requirements
 
-- Android 6.0 (API 23) or higher
+- Android 5.0 (API 21) or higher
 
 ## Developer
 
@@ -22,8 +22,8 @@ Go to [Releases](../../releases) to download the latest APK.
 
 | Platform | Link |
 |---|---|
-| GitHub | [@shazyxcl](https://github.com/shazyxcl) |
-| Telegram | [@david_dev77](https://t.me/david_dev77) |
+| GitHub | [Shanzyxcl](https://github.com/shazyxcl) |
+| Telegram | [David](https://t.me/david_dev77) |
 | Facebook | [Nasruloh Hakim](https://www.facebook.com/alexander.vilain45) |
 
 ## Channel
